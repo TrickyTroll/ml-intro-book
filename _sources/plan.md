@@ -7,12 +7,12 @@ Nous allons répondre à notre question sous plusieurs aspects;
 * Recherche et documentation sur l'histoire de l'intelligence ainsi que ses
 utilités dans le passé.
 
-* L'intelligence artificielle présentement
+* L'intelligenge artificielle présentement
 
 * Formulation de l'hypothèse
 
 ## Notion de base d'un réseau neuronal
-* Définition du mot OCR
+* Définition de OCR
 
 * Explications des neurones
     * Structure d'un neurone
