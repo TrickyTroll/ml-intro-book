@@ -1,0 +1,22 @@
+\babel@toc {french}{}
+\contentsline {chapter}{\numberline {1}Rapport préliminaire}{3}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Énoncé du sujet}{3}{section.1.1}%
+\contentsline {subsection}{\numberline {1.1.1}Mise en contexte}{3}{subsection.1.1.1}%
+\contentsline {subsection}{\numberline {1.1.2}Le début de la découverte des inconvénients}{4}{subsection.1.1.2}%
+\contentsline {subsection}{\numberline {1.1.3}Le biais}{4}{subsection.1.1.3}%
+\contentsline {subsection}{\numberline {1.1.4}Une deuxième révolution industrielle}{4}{subsection.1.1.4}%
+\contentsline {subsection}{\numberline {1.1.5}Comprendre la technologie pour démystifier les inquiétudes}{6}{subsection.1.1.5}%
+\contentsline {section}{\numberline {1.2}Description de la manière dont on entend traiter le sujet}{6}{section.1.2}%
+\contentsline {section}{\numberline {1.3}Plan de rédaction du travail}{7}{section.1.3}%
+\contentsline {subsection}{\numberline {1.3.1}Introduction}{7}{subsection.1.3.1}%
+\contentsline {subsection}{\numberline {1.3.2}Notion de base d’un réseau neuronal}{7}{subsection.1.3.2}%
+\contentsline {subsection}{\numberline {1.3.3}Apprentissage machine (explication à l’aide d’un programme)}{7}{subsection.1.3.3}%
+\contentsline {subsection}{\numberline {1.3.4}Impact de l’intelligence artificielle}{7}{subsection.1.3.4}%
+\contentsline {subsection}{\numberline {1.3.5}Conclusion}{7}{subsection.1.3.5}%
+\contentsline {section}{\numberline {1.4}Bibliographie Commentée}{8}{section.1.4}%
+\contentsline {subsection}{\numberline {1.4.1}Brookings, How artificial intelligence is transforming the world}{8}{subsection.1.4.1}%
+\contentsline {subsection}{\numberline {1.4.2}Ministère de l’Économie et de l’Innovation, Les avantages et inconvénients de l’intelligence artificielle}{8}{subsection.1.4.2}%
+\contentsline {subsection}{\numberline {1.4.3}Ubiquity, HUMAN BRAIN AND NEURAL NETWORK BEHAVIOR, A COMPARISON}{8}{subsection.1.4.3}%
+\contentsline {subsection}{\numberline {1.4.4}Michael A. Nielsen, Neural Network and Deel Learning}{8}{subsection.1.4.4}%
+\contentsline {subsection}{\numberline {1.4.5}Face Recognition Vendor Test (FRVT) Part 3: Demographic Effects}{9}{subsection.1.4.5}%
+\contentsline {chapter}{Bibliographie}{11}{chapter*.3}%
