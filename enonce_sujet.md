@@ -9,7 +9,7 @@ les moyens de transport, la publicité, et plusieurs autres.
 
 Que ça soit des décisions sur l'investissement d'un portefeuille
 d'un individu ou de la détection de fraude en identifiant des anormalités, l'intelligence
-artificielle est de plus en plus présente dans le secteur de la finance. 
+artificielle est de plus en plus présente dans le secteur de la finance. {cite}`nytimes`
 
 Du côté de la 
 sécurité, un excellent exemple serait [Project Maven](https://en.wikipedia.org/wiki/Project_Maven)
@@ -28,7 +28,7 @@ milliards investis dans des véhicules de conduite autonome entre 2014 et 2017. 
 artificielle dans ce domaine aurait pour but de diminuer grandement l'erreur humaine dans les transports
 et réduire à presque zéro les accidents si la majorité des autos était intelligente. De plus, cela réduirait
 aussi grandement le trafic grâce à la communication entre les automobiles intelligentes. La compagnie [Tesla](https://www.tesla.com/)
-en est déjà très avancée pour ce qui est de leur auto intelligente.
+en est déjà très avancée pour ce qui est de leur auto intelligente. {cite}`gouvqc`
 
 
 Comme on peut le voir, cette technologie a permis de multiples avancées dans des domaines où 
@@ -52,7 +52,7 @@ utilisateur.
 Malgré les avancées incroyables que l'intelligence artificielle a déjà permis et
 continuera de permettre dans le futur, elle n'est pas sans ses inconvénients. 
 
-## Le biais
+### Le biais
 Au
 courant des dernières années, les systèmes intelligents sont de plus en plus
 reconnus coupables de discrimination envers certains groupes d'individus. Une
@@ -98,7 +98,7 @@ name: boite-noire
 L'analogie de la boîte noire.
 ```
 
-## Une deuxième révolution industrielle
+### Une deuxième révolution industrielle
 
 Une autre inquiétude liée à l'intelligence artificielle est l'importante 
 quantité d'emplois qui risque de disparaître puisqu'ils seront maintenant
